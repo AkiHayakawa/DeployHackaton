@@ -1,0 +1,80 @@
+{
+  "users": [
+    {
+      "username": "Admin",
+      "password": "pass123",
+      "id": 1
+    },
+    {
+      "username": "Aliia",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "username": "User",
+      "password": "asd",
+      "id": 3
+    }
+  ],
+  "games": [
+    {
+      "title": "Terraria",
+      "img": "https://m.media-amazon.com/images/I/81ymlIJ6n3L.jpg",
+      "price": "21",
+      "type": "adventure",
+      "id": 1,
+      "description": "Копайте, сражайтесь, исследуйте, стройте! Нет ничего невозможного в этой насыщенной событиями приключенческой игре. Также доступен комплект для четверых!",
+      "like": 0
+    },
+    {
+      "title": "Little Nightmares",
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/d8/Little_Nightmares_Box_Art.png",
+      "price": "16",
+      "type": "horror",
+      "description": "immerse yourself in Little Mightmares, a dark whimsical tale that will confront you with your childhood fears as you help Six escape The Maw - a cast, mysterious vessel inhabited by corrupted souls looking for their next meal! ",
+      "id": 2,
+      "like": 0
+    },
+    {
+      "title": "VALORANT",
+      "img": "https://www.kemperlesnik.com/wp-content/uploads/2020/04/valorant-official-art.jpg",
+      "price": "11",
+      "type": "shooter",
+      "description": "VALORANT — это всемирно известный соревновательный тактический шутер с матчами 5 на 5, в котором грамотное применение умений, меткая стрельба и слаженная командная работа помогут вам перехитрить, переиграть и затмить противника.",
+      "comments": "",
+      "id": 3,
+      "like": 0
+    },
+    {
+      "title": "Overwatch",
+      "img": "https://m.media-amazon.com/images/M/MV5BYjBkNTJkOWUtNTg1ZS00NGZhLWIxMGUtOWE0ZDA0NzRkODM3XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg",
+      "price": "2",
+      "type": "shooter",
+      "description": "Overwatch — бесплатная командная игра в ярком мире будущего, каждый матч которой представляет собой поистине потрясающий бой 5 на 5. Участвуйте в сражениях в разных уголках мира, играя за любого из 30 уникальных героев, таких как воинственная путешественница во времени и использующий в бою силу музыки диджей.",
+      "comments": "",
+      "id": 4,
+      "like": 0
+    },
+    {
+      "title": "Cyberpunk 2077",
+      "img": "https://upload.wikimedia.org/wikipedia/ru/b/bb/%D0%9E%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%BE%D0%B9_%D0%B8%D0%B3%D1%80%D1%8B_Cyberpunk_2077.jpg",
+      "price": "29.99",
+      "type": "adventure",
+      "description": "Cyberpunk 2077 — приключенческая ролевая игра, действие которой происходит в мегаполисе Найт-Сити, где власть, роскошь и модификации тела ценятся выше всего.",
+      "comments": "",
+      "id": 5,
+      "like": 0
+    },
+    {
+      "title": "Genshin Impact",
+      "img": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GenshinImpact_miHoYoLimited_S2_1200x1600-c12cdcc2cac330df2185aa58c508e820",
+      "price": "9",
+      "type": "adventure",
+      "description": "Компьютерная игра в жанре action-adventure с открытым миром и элементами RPG, разработанная китайской компанией miHoYo Limited.",
+      "comments": "",
+      "id": 6,
+      "like": 6
+    }
+   
+  ]
+}

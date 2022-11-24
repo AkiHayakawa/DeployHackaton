@@ -1,0 +1,39 @@
+body {
+  /* background-image: url(https://images6.alphacoders.com/774/thumb-1920-774373.jpg); */
+  /* background-color: white; */
+  /* margin-top: 14%; */
+  background: rgb(58, 137, 171);
+  background: radial-gradient(
+    circle,
+    rgba(58, 137, 171, 1) 0%,
+    rgba(17, 17, 91, 1) 57%,
+    rgba(5, 5, 55, 1) 70%,
+    rgba(0, 1, 1, 1) 100%
+  );
+}
+.register {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 6%;
+}
+
+h2 {
+  color: white;
+  text-shadow: -5px -5px rgb(100, 106, 173);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+a {
+  text-decoration: none;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: rgb(94, 111, 242);
+  border-left: 2px solid grey;
+  padding: 0 2%;
+}
+
+a:hover {
+  color: rgb(138, 228, 248);
+  transition: 0.5s;
+}

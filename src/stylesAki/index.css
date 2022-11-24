@@ -1,0 +1,17 @@
+.Input {
+  background-color: rgb(5, 54, 129);
+  margin: 5px;
+  color: aqua;
+}
+.InputDiv {
+  height: 350px;
+  width: 350px;
+  margin: 20px;
+}
+.CardList {
+  display: flex;
+  margin: 20px;
+}
+.Card {
+  display: inline;
+}
